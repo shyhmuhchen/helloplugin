@@ -1,0 +1,25 @@
+{
+  "name": "com.walsin.cordova.plugin.demo",
+  "version": "0.0.1",
+  "description": "hello",
+  "cordova": {
+    "id": "com.walsin.cordova.plugin.demo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyhmuhchen/helloplugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "shyhmuhchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyhmuhchen/helloplugin/issues"
+  },
+  "homepage": "https://github.com/shyhmuhchen/helloplugin#readme"
+}
